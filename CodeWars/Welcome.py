@@ -40,7 +40,7 @@ def greet(language):
   else:
     return('Welcome')
 
-# Более рациональный вариант решения
+# Более рациональный вариант решения этой задачи
 
 def greet(language):
     return {
